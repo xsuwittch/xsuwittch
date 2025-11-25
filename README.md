@@ -2,15 +2,6 @@
 
 Aspiring Full-Stack Developer | Cloud & AI Enthusiast | Cybersecurity
 
----
-
-## About Me
-- 17 years old, based in Pakistan  
-- Focused on becoming a top-tier AI & Cloud engineer by 20  
-- Building real projects to strengthen full-stack and cybersecurity skills  
-
----
-
 ## Skills
 - **Programming:** Python, JavaScript, C++ basics  
 - **Web Dev:** HTML, CSS, React, Node.js  
