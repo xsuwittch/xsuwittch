@@ -3,27 +3,16 @@
 Aspiring Full-Stack Developer | Cloud & AI Enthusiast | Cybersecurity
 
 ## Skills
-- **Programming:** Python, JavaScript, C++ basics  
-- **Web Dev:** HTML, CSS, React, Node.js  
-- **Cloud & Security:** AWS, Linux, Cloud Security fundamentals  
-- **Other:** AI integration, automation, bug bounties  
-
+- **Programming:** Python, C++, Bash 
+- **Web Dev:** HTML, CSS,  
+- **Cloud & Security:** Linux, Networking, CTFS
 ---
 
-## Currently Learning
-- Advanced full-stack projects with AI integration  
-- Cloud engineering, Kubernetes, and Infrastructure as Code  
-- Building a personal tech portfolio & professional GitHub presence  
-
----
-
-## Projects
-- **BLACKHEIR:** Personal brand for luxury shoes & streetwear  
-- **Smart Lock Prototype:** AI-powered personal safety concept  
+## Projects  
 - Cybersecurity home lab in progress  
 
 ---
 
 ## Contact
-- LinkedIn: [Your LinkedIn link]  
+- LinkedIn: [(https://www.linkedin.com/in/muhammad-ammar-rana-529b9a2a4/)]  
 - Email: ammar.rana@example.com  
