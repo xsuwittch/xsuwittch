@@ -14,5 +14,5 @@ Aspiring Full-Stack Developer | Cloud & AI Enthusiast | Cybersecurity
 ---
 
 ## Contact
-- LinkedIn: [(https://www.linkedin.com/in/muhammad-ammar-rana-529b9a2a4/)]  
-- Email: ammar.rana@example.com  
+- LinkedIn: https://www.linkedin.com/in/muhammad-ammar-rana-529b9a2a4/
+
