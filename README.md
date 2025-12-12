@@ -1,4 +1,4 @@
-# Ammar Rana
+# Muhammad Ammar Rana
 
 Aspiring Full-Stack Developer | Cloud & AI Enthusiast | Cybersecurity
 
