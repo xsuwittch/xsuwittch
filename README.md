@@ -4,7 +4,7 @@ Aspiring Full-Stack Developer | Cloud & AI Enthusiast | Cybersecurity
 
 ## Skills
 - **Programming:** Python, C++, Bash 
-- **Web Dev:** HTML, CSS,  
+- **Web Dev:** HTML, CSS, JS  
 - **Cloud & Security:** Linux, Networking, CTFS
 ---
 
