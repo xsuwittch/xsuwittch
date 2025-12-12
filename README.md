@@ -9,7 +9,8 @@ Aspiring Full-Stack Developer | Cloud & AI Enthusiast | Cybersecurity
 ---
 
 ## Projects  
-- Cybersecurity home lab in progress  
+- Cybersecurity home lab in progress
+- 2D Arcade Game -- Tumblepop
 
 ---
 
