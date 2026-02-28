@@ -6,6 +6,8 @@ Aspiring Full-Stack Developer | Cloud & AI Enthusiast | Cybersecurity
 - **Programming:** Python, C++, Bash 
 - **Web Dev:** HTML, CSS, JS  
 - **Cloud & Security:** Linux, Networking, CTFS
+- **Log analysis:** Elastic stack
+- **IDS & IPS:** Suricata 
 ---
 
 ## Projects  
